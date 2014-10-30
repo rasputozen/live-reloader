@@ -15,4 +15,5 @@ In the last input box specify the path to Live.exe (or w/e the .exe is called, i
 I don't know if this works on anything except windows 7. This was coded in AHK v1.1.13.01
 
 ### Feautures To Add: ###
+- Hotkey to open/close/reload log file
 - Customizable hotkeys
